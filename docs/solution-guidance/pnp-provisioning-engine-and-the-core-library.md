@@ -43,8 +43,8 @@ In case you want to install a version for SharePoint on-premises, substitute 'on
 
 These are the links to the latest versions:
 
-* [SharePoint 2013](https://www.powershellgallery.com/packages/SharePointPnPPowerShell2019)
-* [SharePoint 2016](https://www.powershellgallery.com/packages/SharePointPnPPowerShell2019)
+* [SharePoint 2013](https://www.powershellgallery.com/packages/SharePointPnPPowerShell2013)
+* [SharePoint 2016](https://www.powershellgallery.com/packages/SharePointPnPPowerShell2016)
 * [SharePoint 2019](https://www.powershellgallery.com/packages/SharePointPnPPowerShell2019)
 * [SharePoint Online](https://www.powershellgallery.com/packages/SharePointPnPPowerShellOnline)
 
